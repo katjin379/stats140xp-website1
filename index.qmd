@@ -5,6 +5,6 @@ title: "Katherine Jin"
 This is Katherine Jin's website.
 
 ```{r}
-1 + 1
+1 + 2
 ```
 
