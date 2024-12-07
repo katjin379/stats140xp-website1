@@ -4,13 +4,125 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site\n\n\nadd text"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Katherine Jin",
     "section": "",
-    "text": "This is Katherine Jin’s website.\n\nrunif(100)\n\n  [1] 0.58478270 0.43377414 0.62938553 0.65339316 0.46704448 0.44680763\n  [7] 0.44903283 0.22480358 0.35353978 0.71651373 0.08585903 0.22096613\n [13] 0.27616866 0.70602949 0.16797259 0.11040403 0.46297529 0.07267955\n [19] 0.56010181 0.97323191 0.30220124 0.11067408 0.98608938 0.91461871\n [25] 0.89169966 0.80597214 0.67458844 0.84218749 0.32244307 0.08690279\n [31] 0.31581546 0.65398816 0.46164973 0.24075453 0.04926361 0.65529613\n [37] 0.20959180 0.43775754 0.35354878 0.88784715 0.54940146 0.46214727\n [43] 0.95920395 0.92384768 0.23007585 0.08731758 0.96553672 0.13545745\n [49] 0.29420145 0.67847955 0.38496447 0.51158591 0.56464718 0.54377471\n [55] 0.43265090 0.34339882 0.76250514 0.06113407 0.30855509 0.28966643\n [61] 0.57765840 0.04509894 0.74550456 0.39875397 0.45571284 0.95868360\n [67] 0.68346447 0.28068045 0.81364863 0.74364194 0.60252227 0.34268141\n [73] 0.72831193 0.64596196 0.73459233 0.23744875 0.20597214 0.25201324\n [79] 0.18832483 0.04313561 0.70363325 0.72653707 0.46054809 0.71706141\n [85] 0.51149756 0.83813602 0.14449346 0.90231030 0.75114039 0.70011058\n [91] 0.42603931 0.14234669 0.16651068 0.71911632 0.99939847 0.57429694\n [97] 0.71259549 0.79047565 0.05436440 0.80015660"
+    "text": "[Biography]\nDOWNLOAD Resume"
+  },
+  {
+    "objectID": "about.html#heading-2",
+    "href": "about.html#heading-2",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nadd text"
+  },
+  {
+    "objectID": "about.html#new-heading-2",
+    "href": "about.html#new-heading-2",
+    "title": "About",
+    "section": "New Heading 2",
+    "text": "New Heading 2\nadd text"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Katherine Jin",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.A. in Statistics and Data Science | Sep 2023 - Mar 2025\nUniversity of California, Davis | Davis, CA B.A in Statistics | Sep 2021 - Jun 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Katherine Jin",
+    "section": "Experience",
+    "text": "Experience\nHuawei Tech Co., Ltd, Guangzhou, China | Data Analyst Intern | Jun 2023 - Sep 2023\nTencent Tech Co., Ltd, Shenzhen, China| Data Analyst Intern | Jun 2024 - Sep 2024"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nadd text"
+  },
+  {
+    "objectID": "Projects.html#new-heading-2",
+    "href": "Projects.html#new-heading-2",
+    "title": "Projects",
+    "section": "New Heading 2",
+    "text": "New Heading 2\nadd text"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "projects.html#new-heading-2",
+    "href": "projects.html#new-heading-2",
+    "title": "",
+    "section": "New Heading 2",
+    "text": "New Heading 2\nadd text"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.13824019 0.20975604 0.06583403 0.85035930 0.81986333 0.59229371\n [7] 0.29029286 0.41491530 0.41118423 0.75110769"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.37176169 0.20569044 0.01271747 0.42872510 0.52608275 0.64691488\n [7] 0.96484055 0.55033445 0.62270504 0.25388835"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "",
+    "section": "",
+    "text": "relevant courses taken"
   }
 ]

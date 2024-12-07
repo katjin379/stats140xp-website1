@@ -7,13 +7,27 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+  page-footer:
+    right: "&copy; 2024, Katherine Jin"
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    #published-title: "last updated"
+    #reference-location: document
+    #code-fold: false
+    #code-summary: ""
+    #fontsize: 1.3em
 
+
+execute: 
+  freeze: auto
 
 

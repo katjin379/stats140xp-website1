@@ -1,0 +1,15 @@
+{
+  "hash": "703ba53b7f1d1b9350a55f9355de5bd7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Courses\"\n---\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

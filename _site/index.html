@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -67,7 +33,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -105,7 +70,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -122,8 +87,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./courses.html"> 
+<span class="menu-text">Courses</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -136,58 +105,48 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="profile.JPG" class="about-image
+  rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Katherine Jin</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
 </header>
-
-
-<p>This is Katherine Jin’s website.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">runif</span>(<span class="dv">100</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>  [1] 0.58478270 0.43377414 0.62938553 0.65339316 0.46704448 0.44680763
-  [7] 0.44903283 0.22480358 0.35353978 0.71651373 0.08585903 0.22096613
- [13] 0.27616866 0.70602949 0.16797259 0.11040403 0.46297529 0.07267955
- [19] 0.56010181 0.97323191 0.30220124 0.11067408 0.98608938 0.91461871
- [25] 0.89169966 0.80597214 0.67458844 0.84218749 0.32244307 0.08690279
- [31] 0.31581546 0.65398816 0.46164973 0.24075453 0.04926361 0.65529613
- [37] 0.20959180 0.43775754 0.35354878 0.88784715 0.54940146 0.46214727
- [43] 0.95920395 0.92384768 0.23007585 0.08731758 0.96553672 0.13545745
- [49] 0.29420145 0.67847955 0.38496447 0.51158591 0.56464718 0.54377471
- [55] 0.43265090 0.34339882 0.76250514 0.06113407 0.30855509 0.28966643
- [61] 0.57765840 0.04509894 0.74550456 0.39875397 0.45571284 0.95868360
- [67] 0.68346447 0.28068045 0.81364863 0.74364194 0.60252227 0.34268141
- [73] 0.72831193 0.64596196 0.73459233 0.23744875 0.20597214 0.25201324
- [79] 0.18832483 0.04313561 0.70363325 0.72653707 0.46054809 0.71706141
- [85] 0.51149756 0.83813602 0.14449346 0.90231030 0.75114039 0.70011058
- [91] 0.42603931 0.14234669 0.16651068 0.71911632 0.99939847 0.57429694
- [97] 0.71259549 0.79047565 0.05436440 0.80015660</code></pre>
+    <div class="about-links">
+  <a href="https://github.com/katjin379" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="mailto:katjin379@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-inbox-fill"></i>
+     <span class="about-link-text">Email</span>
+  </a>
 </div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<p>[Biography]</p>
+<p>DOWNLOAD <a href="./resume.pdf">Resume</a></p>
+<section id="education" class="level2">
+<h2 data-anchor-id="education">Education</h2>
+<p>University of California, Los Angeles | Los Angeles, CA B.A. in Statistics and Data Science | Sep 2023 - Mar 2025</p>
+<p>University of California, Davis | Davis, CA B.A in Statistics | Sep 2021 - Jun 2023</p>
+</section>
+<section id="experience" class="level2">
+<h2 data-anchor-id="experience">Experience</h2>
+<p>Huawei Tech Co., Ltd, Guangzhou, China | Data Analyst Intern | Jun 2023 - Sep 2023</p>
+<p>Tencent Tech Co., Ltd, Shenzhen, China| Data Analyst Intern | Jun 2024 - Sep 2024</p>
+
+
+</section>
+</main></div>
 </div>
-
-
-
-</main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -208,13 +167,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -606,6 +558,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>© 2024, Katherine Jin</p>
+</div>
+  </div>
+</footer>
 
 
 
