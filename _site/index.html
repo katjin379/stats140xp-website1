@@ -168,9 +168,25 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <p>This is Katherine Jin’s website.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">2</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">runif</span>(<span class="dv">100</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 3</code></pre>
+<pre><code>  [1] 0.41806918 0.30062730 0.85854383 0.30327262 0.17731134 0.09399590
+  [7] 0.58920983 0.58601964 0.31180913 0.75990729 0.40256437 0.65870420
+ [13] 0.50136451 0.97388974 0.63965534 0.66289368 0.38876430 0.84468411
+ [19] 0.28140074 0.06034310 0.11593732 0.50466900 0.67999685 0.56412595
+ [25] 0.32589526 0.56274510 0.51540715 0.73213252 0.45005389 0.45499760
+ [31] 0.35072431 0.39137015 0.09842894 0.67596450 0.69018277 0.95026731
+ [37] 0.91927061 0.36198614 0.22048714 0.88923863 0.52184922 0.57810644
+ [43] 0.72373771 0.69213632 0.67123695 0.14851349 0.55063068 0.84498390
+ [49] 0.39569821 0.76394242 0.69640377 0.38506364 0.06665272 0.95295672
+ [55] 0.55659684 0.92709543 0.93266010 0.70515207 0.79932715 0.85822242
+ [61] 0.79425520 0.03462180 0.29353795 0.04349708 0.64499995 0.77451834
+ [67] 0.43967958 0.91561837 0.30422677 0.96592662 0.15361516 0.17549442
+ [73] 0.03417382 0.49079651 0.73636246 0.44740838 0.36419852 0.37985308
+ [79] 0.69426035 0.39405798 0.28285453 0.10299568 0.69745445 0.72754795
+ [85] 0.87031417 0.21631299 0.29486249 0.20161993 0.14052130 0.56690490
+ [91] 0.49925788 0.87811491 0.44538244 0.01631420 0.36475784 0.37296638
+ [97] 0.82785947 0.54259912 0.22132631 0.89818465</code></pre>
 </div>
 </div>
 
@@ -267,7 +283,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/comforting-dango-403f37\.netlify\.app");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
