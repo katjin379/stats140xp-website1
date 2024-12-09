@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\nadd text"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Katherine Jin",
     "section": "",
     "text": "[Biography]\nDOWNLOAD Resume"
-  },
-  {
-    "objectID": "about.html#heading-2",
-    "href": "about.html#heading-2",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\nadd text"
-  },
-  {
-    "objectID": "about.html#new-heading-2",
-    "href": "about.html#new-heading-2",
-    "title": "About",
-    "section": "New Heading 2",
-    "text": "New Heading 2\nadd text"
   },
   {
     "objectID": "index.html#education",
@@ -42,32 +21,25 @@
     "text": "Experience\nHuawei Tech Co., Ltd, Guangzhou, China | Data Analyst Intern | Jun 2023 - Sep 2023\nTencent Tech Co., Ltd, Shenzhen, China| Data Analyst Intern | Jun 2024 - Sep 2024"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
     "section": "",
-    "text": "About this site"
+    "text": "DOWNLOAD Prediction of NBA Game Outcomes"
   },
   {
-    "objectID": "Projects.html#project-1",
-    "href": "Projects.html#project-1",
-    "title": "Projects",
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "relevant courses taken"
   },
   {
-    "objectID": "Projects.html#project-2",
-    "href": "Projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nadd text"
-  },
-  {
-    "objectID": "Projects.html#new-heading-2",
-    "href": "Projects.html#new-heading-2",
-    "title": "Projects",
-    "section": "New Heading 2",
-    "text": "New Heading 2\nadd text"
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
   },
   {
     "objectID": "projects.html",
@@ -89,40 +61,5 @@
     "title": "",
     "section": "Project 2",
     "text": "Project 2\nHere is my project 2"
-  },
-  {
-    "objectID": "projects.html#new-heading-2",
-    "href": "projects.html#new-heading-2",
-    "title": "",
-    "section": "New Heading 2",
-    "text": "New Heading 2\nadd text"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.13824019 0.20975604 0.06583403 0.85035930 0.81986333 0.59229371\n [7] 0.29029286 0.41491530 0.41118423 0.75110769"
-  },
-  {
-    "objectID": "projects/01-project.html",
-    "href": "projects/01-project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.37176169 0.20569044 0.01271747 0.42872510 0.52608275 0.64691488\n [7] 0.96484055 0.55033445 0.62270504 0.25388835"
-  },
-  {
-    "objectID": "projects/02-project.html",
-    "href": "projects/02-project.html",
-    "title": "Project 2",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "",
-    "section": "",
-    "text": "relevant courses taken"
   }
 ]
