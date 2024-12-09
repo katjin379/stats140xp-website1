@@ -19,11 +19,13 @@ DOWNLOAD [Resume](/resume.pdf)
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
-B.A. in Statistics and Data Science | Sep 2023 - Mar 2025
+University of California, Los Angeles | Los Angeles, CA 
 
-University of California, Davis | Davis, CA
-B.A in Statistics | Sep 2021 - Jun 2023
+- B.A. in Statistics and Data Science | Sep 2023 - Mar 2025
+
+University of California, Davis | Davis, CA 
+
+- B.A in Statistics | Sep 2021 - Jun 2023
 
 ## Experience
 
