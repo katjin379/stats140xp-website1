@@ -1,9 +1,33 @@
 ---
 title: ""
+toc: false
 ---
 
-relevant courses taken
+Relevant courses taken
 
-- 
-- 
+### Computer Science
+- Programming in Python and Fata Structures
+
+### Statistics
+- Data Science Basics
+- Regression Analysis
+- Nonparametric Statistics
+- Analysis of Variance
+- Statistical Data Science
+- Programming in R
+- Data Analysis and Regression
+- Computational Statistics with R
+- Mathematical Statistics
+- Experiment design
+
+### Mathematics
+- Calculus
+- Linear Algebra
+- Probability
+- Vector Analysis
+- Programming in Matlab
+
+### Economics
+- Principle of Macroeconomics/ Microeconomics
+
 

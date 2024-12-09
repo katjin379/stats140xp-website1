@@ -32,7 +32,7 @@
     "href": "courses.html",
     "title": "",
     "section": "",
-    "text": "relevant courses taken"
+    "text": "Relevant courses taken\n\nComputer Science\n\nProgramming in Python and Fata Structures\n\n\n\nStatistics\n\nData Science Basics\nRegression Analysis\nNonparametric Statistics\nAnalysis of Variance\nStatistical Data Science\nProgramming in R\nData Analysis and Regression\nComputational Statistics with R\nMathematical Statistics\nExperiment design\n\n\n\nMathematics\n\nCalculus\nLinear Algebra\nProbability\nVector Analysis\nProgramming in Matlab\n\n\n\nEconomics\n\nPrinciple of Macroeconomics/ Microeconomics"
   },
   {
     "objectID": "projects/02-project.html",
@@ -46,20 +46,6 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "",
-    "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
+    "text": "Project 1\n\n\nPrediction of NBA Game Outcomes\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nInfluential Factors on Student Performance\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
