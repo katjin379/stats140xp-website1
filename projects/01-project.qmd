@@ -1,10 +1,7 @@
 ---
 title: Project 1
+subtitle: Prediction of NBA Game Outcomes
 ---
 
 
-Some complicated statistics project
-
-```{r}
-runif(10)
-```
+DOWNLOAD [Prediction of NBA Game Outcomes](\"Prediction of NBA Game Outcomes.pdf")
