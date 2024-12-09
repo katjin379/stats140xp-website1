@@ -13,7 +13,7 @@ about:
 toc: false
 ---
 
-[Biography]
+Katherine Jin is an undergraduate senior at UCLA, majoring in Statistics and Data Science. With a high GPA, she has excelled in her coursework and has actively participated in individual research projects. Katherine has gained valuable experience through internships and serving as a learning assistant for introductory programming courses, where she helped fellow students grasp complex concepts. She is passionate about leveraging data to drive informed decisions.
 
 DOWNLOAD [Resume](/resume.pdf)
 
