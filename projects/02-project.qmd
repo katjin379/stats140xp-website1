@@ -1,9 +1,6 @@
 ---
-title: "Project 2"
+title: Project 2
+subtitle : Influential Factors on Student Performance
 ---
 
-Some complicated statistics project
-
-```{r}
-rnorm(100) |> hist()
-```
+DOWNLOAD [Influential Factors on Student Performance](/Influential Factors on Student Performance.pdf)
