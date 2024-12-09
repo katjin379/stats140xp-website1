@@ -4,4 +4,4 @@ subtitle: Prediction of NBA Game Outcomes
 ---
 
 
-DOWNLOAD [Prediction of NBA Game Outcomes](\"Prediction of NBA Game Outcomes.pdf")
+DOWNLOAD [Prediction of NBA Game Outcomes](/Prediction of NBA Game Outcomes.pdf)
